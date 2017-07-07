@@ -1,0 +1,8 @@
+{
+  "name": "rerere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rqrqrqrq/rerere.git",
+  "author": "rqrqrqrq <rtdfh@gmail.com>",
+  "license": "MIT"
+}
